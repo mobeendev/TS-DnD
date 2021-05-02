@@ -1,0 +1,16 @@
+{
+  "folders": [
+	{
+		"path": "../../../../Documents/learning"
+	},
+	{
+		"path": "../../../../../../Applications/MAMP/htdocs/watermark"
+	},
+	{
+		"path": "../.."
+	}
+],
+"settings": {
+	"liveServer.settings.multiRootWorkspaceName": "typescript"
+}
+}
